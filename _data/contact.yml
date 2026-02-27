@@ -1,0 +1,8 @@
+# Contact links displayed in the sidebar
+- type: github
+  icon: "fab fa-github"
+  url: "https://github.com/0mureeb"
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true

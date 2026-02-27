@@ -1,16 +1,29 @@
+# Dependencies
 .bundle
 vendor
-Gemfile.lock
+
+# Build output
+_site
 .jekyll-cache
 .jekyll-metadata
-_site
+
+# Wrangler / Cloudflare
+.wrangler
+
+# Gems
 *.gem
+
+# Node
 node_modules
 package-lock.json
+
+# IDE
 .idea
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
 !.vscode/tasks.json
+
+# Theme vendors
 _sass/vendors
 assets/js/dist
